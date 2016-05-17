@@ -1,2 +1,5 @@
 # hello-world
-This is my hello world repository.
+
+Hello all.
+
+I am a web developer who loves Dreamweaver, Brackets, and Javascript.
